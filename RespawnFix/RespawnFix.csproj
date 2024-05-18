@@ -35,6 +35,7 @@
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpawnFix.cs" />
+    <Compile Include="tps.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
